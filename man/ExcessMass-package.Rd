@@ -11,15 +11,16 @@ Implementation of a function which calculates the empirical excess mass for a gi
 \tabular{ll}{
 Package: \tab ExcessMass\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2014-01-10\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2017-05-17\cr
 License: \tab GPL
 }
 }
 \author{Marc-Daniel Mildenberger \email{mildenberger.stat@web.de}, based on earlier code from Dr. Guenther Sawitzki \email{gs@statlab.uni-heidelberg.de}
 }
 \references{Muller, D. W. and Sawitzki, G., 09.1991, "Excess Mass Estimates and Tests for Multimodality", \emph{Journal of the American Statistical Association} \bold{, Vol. 86, No. 415, pp. 738--746}, \url{http://www.jstor.org/stable/2290406}
-}
+
+Muller, D. W., 12.1992, "The Excess Mass Approach in Statistics", \emph{Beitraege zur Statistik -- StatLab Heidelberg}, \url{http://archiv.ub.uni-heidelberg.de/volltextserver/21357/}}
 \keyword{ package }
 
 \examples{

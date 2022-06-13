@@ -1,4 +1,4 @@
-aa0d7408fd8947d9f2a2900a056ff937 *DESCRIPTION
+9275d75373c471fd53a0304404d83593 *DESCRIPTION
 422c3e0fa5253f35a30974603b237a05 *NAMESPACE
 a4d418804f9d4ecfeaf82c69e6547885 *R/colorizing.R
 9aee9e186c6cb52cbab95659708a8a21 *R/excessm.R
@@ -8,10 +8,10 @@ d9a92773c344a157ce28ea08aa53f1ee *R/lambdaweight.R
 90014b446bf071e0dca5e814e334607a *R/localmax.R
 ddbc9fde5ba3feb40cec14141bb45fb1 *R/mexmsilhouette.R
 ce090839325e8cdf28fde021fd1d9db4 *R/searchMaxLambda.R
-516b0262616bc860bd3aab469c52cd94 *man/ExcessMass-package.Rd
+0641ab5dc6780dbba6f725cb1e0781df *man/ExcessMass-package.Rd
 bf21a73daf6831b3da85752292b71569 *man/excessm.Rd
 ea3b13dbb040747ee3d389e1b621276f *man/exmplot.Rd
-29ff7deed87b38d2bfb0f721de65c99f *man/exmsilhouette.Rd
+43dcb0faabe06bd9fa43c89fa1a4806c *man/exmsilhouette.Rd
 6bd9b3bb6851afd00461b7f82ea52e59 *man/mexmsilhouette.Rd
 4bc2b458a21838b564688592d1e8caf6 *man/searchMaxLambda.Rd
 3452bf4960e44b1410698822c0a200c1 *tests/ex1.R
